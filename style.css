@@ -8,11 +8,10 @@ body {
     padding: 0;
     overflow: hidden;
     background-color: #07947c;
-    text-align: right;
   }
   
   nav>ul>li {
-    float: left;
+    float: right;
   }
   
   nav>ul>li>a {
