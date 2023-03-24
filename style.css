@@ -11,7 +11,8 @@ body {
   }
   
   nav>ul>li {
-    float: right;
+    float: left;
+    text-align: right;
   }
   
   nav>ul>li>a {
